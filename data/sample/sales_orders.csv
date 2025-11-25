@@ -1,0 +1,8 @@
+order_id,customer_name,customer_email,order_date,total_amount,currency,lead_ref
+SO-1001,Acme Corp,contact@acme.com,2024-09-02,1200.00,USD,L-001
+SO-1002,Blue Company,blue@blue.co,2024-09-06,1500,USD,L-002
+SO-1003,Carla Inc,carla@example.com,2024-09-11,900.50,USD,L-003
+SO-1004,Delta LLC,delta@delta.co,2024-09-15,800,USD,
+SO-1005,External Co,external@example.com,2024-09-16,$500.00,USD,L-999
+SO-1006,Acme Corp,contact@acme.com,2024-09-20,200.00,USD,L-001
+SO-1007,NewCo,newco@example.net,2024-09-21,0,USD,

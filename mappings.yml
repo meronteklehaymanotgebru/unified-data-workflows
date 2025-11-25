@@ -1,0 +1,24 @@
+
+---
+
+### `mappings.yml`
+
+unified_customers:
+  id:
+    source: ["lead_id","order_id","customer_email"]
+    type: string
+  name:
+    source: ["full_name","customer_name"]
+    type: string
+  email:
+    source: ["email","customer_email","contact_email"]
+    type: string
+  signup_date:
+    source: ["signup_date","order_date"]
+    type: date
+  lifetime_value:
+    source: ["estimated_ltv","total_amount"]
+    type: float
+  source_system:
+    source: ["source","currency"]
+    type: string

@@ -1,0 +1,6 @@
+lead_id,full_name,email,signup_date,source,estimated_ltv
+L-001,Acme Corp,contact@acme.com,2024-09-01T10:15:00Z,website,$1,200.00
+L-002,Blue Co,,2024-09-05,referral,1200
+L-003,Carla Inc,carla@example.com,09/10/2024,website,900.50
+L-004,Delta LLC,delta@delta.co,2024-09-12T00:00:00Z,ads,800
+L-005,Echo Ltd,echo@example.org,2024/09/15,events,NaN
